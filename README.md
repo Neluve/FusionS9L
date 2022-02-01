@@ -1,4 +1,4 @@
 # FusionS9L.github.io
 JMC JuanMa
 Light Version
- Version lijera en donde incluyo lo Suficiente para los amantes de pokas komplikaciones >__< creo ke esta funcional,Espero ke guste ^__^
+ lijera en donde incluyo lo Suficiente para los amantes de pokas komplikaciones >__< creo ke esta funcional,Espero ke guste ^__^
