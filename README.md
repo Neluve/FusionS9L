@@ -5,4 +5,4 @@ Light Version
  
  cabe Destacar k e esto no habria sido posible sin la Colaboracion de todo akel ke aporto de un modo un otro a la Scene de 
  version 9.00
-Gracia Chik@s!
+Gracias Chik@s!
