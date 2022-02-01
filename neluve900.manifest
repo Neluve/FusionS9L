@@ -2,10 +2,6 @@ CACHE MANIFEST
 
 CACHE: 
 
-creditos.html
-jmc.js
-nelu.css
-theme.html
 1.jpg
 2.jpg
 3.jpg
@@ -24,6 +20,10 @@ backupdb.bin
 index.html
 int64.js
 kexploit.js
+creditos.html
+jmc.js
+nelu.css
+theme.html
 MiraLoader.bin
 Orbis-Toolbox-900.bin
 fan-threshold.js
